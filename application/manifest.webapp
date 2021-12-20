@@ -1,0 +1,19 @@
+{
+    "name": "NokiaSans",
+    "description": "theme made by Cyan and for Cyan",
+    "type": "certified",
+    "role": "theme",
+    "launch_path": "/index.html",
+    "version": "0.0.1",
+    "icons": {
+        "128": "/icons/icon128x128.png"
+    },
+    "origin": "app://nokia_sans.bananahackers.net",
+    "developer": {
+        "name": "Cyan",
+        "url": "http://example.com"
+    },
+    "chrome": {
+        "statusbar": "overlap"
+    }
+}
