@@ -12,6 +12,11 @@
 	content: 'lte';
 }
 
+.clockDigi-container + [data-hour-24='true'] {
+	display: block !important;
+	color: rgba(0, 0, 0, 0) !important;
+}
+
 .skbar > :nth-child(2),
 .skbar div:nth-child(2) .sk-button {
 	text-transform: none !important;
