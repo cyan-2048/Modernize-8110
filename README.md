@@ -14,7 +14,7 @@ here's a full list
 - gets rid of the debugger icon in the statusbar
 - replaces the gaia-icons to use the ones found in 2.5.3+
 - the softkey bar does not capitalize the one in the center.
-- the weird LTE logo next to the signal bar when mobile data is gone is replaced with 4GLTE
+- the weird LTE logo next to the signal bar when mobile data is turned on is replaced with 4GLTE
 - NokiaSans font
 - Segoe Emoji (2019 or Windows 10 version, Unicode 12)
 
